@@ -1,0 +1,3 @@
+## Killian
+In addition to the information already shared to aid your prep for R2, I believe this interview is a lot more in depth than R1. Heavily focused on Python - data types, functions, classes etc. The prep document Marcus will share directly with you should aid your prep. One candidate who did this interview last year mentioned it would be advisable to practice basic CS algorithms. Some candidates skip that low level code, which can catch them out in interview.
+ 
